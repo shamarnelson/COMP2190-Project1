@@ -1,0 +1,23 @@
+Last login: Sun Oct 24 05:31:08 on ttys002
+/Users/shamarnelson/.zprofile:source:1: no such file or directory: /Users/shamarnelson/.profile
+shamarnelson@Shamars-MacBook ~ % cd desktop      
+shamarnelson@Shamars-MacBook desktop % cd net-620108459
+shamarnelson@Shamars-MacBook net-620108459 % python3 agent.py
+Enter the connection code:
+DFG286144
+Sending message to the server.
+Provide a response to the question below.
+What did Eve say when she ate the fruit?
+Enter response:
+Nothing
+Sending message to the server.
+Welcome Agent B Time Logged - 2021-10-24T05:32:34.852988
+shamarnelson@Shamars-MacBook net-620108459 % 
+
+
+
+
+
+
+
+

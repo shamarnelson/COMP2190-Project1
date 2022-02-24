@@ -1,0 +1,23 @@
+Last login: Sun Oct 24 04:47:56 on ttys003
+/Users/shamarnelson/.zprofile:source:1: no such file or directory: /Users/shamarnelson/.profile
+shamarnelson@Shamars-MacBook ~ % cd desktop      
+shamarnelson@Shamars-MacBook desktop % cd net-620108459
+shamarnelson@Shamars-MacBook net-620108459 % python3 server.py
+[STARTING] The Server is Starting...
+[LISTENING] Server is listening on 127.0.0.1
+Connected by client.
+[ACTIVE CONNECTIONS]1
+Address:  ('127.0.0.1', 59177)
+Received connection code from client.
+Retrieving secret question.
+Generated secret question.
+Sent the secret question to client.
+Generating welcome message
+Sent welcome message.
+Connection closed.
+
+
+
+
+
+
